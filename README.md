@@ -21,11 +21,19 @@ Telegram-бот для профориентации школьников, сту
 
 Главное меню:
 
-![Главное меню](screenshots/main_menu.png)
+![Главное меню](screenshots/start.png)
 
 Вопрос викторины:
 
-![Вопрос](screenshots/question.png)
+![Вопрос](screenshots/questions.png)
+
+Результат теста:
+
+![Вопрос](screenshots/results.png)
+
+Рекомендации:
+
+![Вопрос](screenshots/recommendations.png)
 
 ---
 
