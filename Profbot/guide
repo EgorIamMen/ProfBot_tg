@@ -1,0 +1,3 @@
+tasklist | findstr python - проверка на количество зарущенных процессов тг-бота
+taskkill /IM python.exe /F - убивает все процессы
+
